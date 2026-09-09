@@ -11,6 +11,14 @@ A real-time multiplayer drawing game where players draw a prompt and an AI tries
 - Live leaderboard and final winner screen
 - Firebase-powered real-time state sync
 
+## App Preview
+
+![Doodle Duel AI landing page](./public/start-page-preview.png)
+
+## Architecture Flow
+
+![Doodle Duel AI architecture flow](./public/architecture-flow.png)
+
 ## Tech Stack
 
 - React
